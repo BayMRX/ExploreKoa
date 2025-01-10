@@ -1,6 +1,6 @@
 [简体中文](./README.md) | [English](./README.en.md)
 
-### KOA2 + TypeScript built back-end projects that full stack engineers must learn !!!
+### KOA2 + TypeScript built back-end projects that full stack engineers must learn !!!！
 
 The front-end project address: https://github.com/supervons/ExploreRN
 
